@@ -1,0 +1,10 @@
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\bin\Debug\proyecto eventos del mouse.exe.config
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\bin\Debug\proyecto eventos del mouse.exe
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\bin\Debug\proyecto eventos del mouse.pdb
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto eventos del mouse.csprojAssemblyReference.cache
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto_eventos_del_mouse.Form1.resources
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto_eventos_del_mouse.Properties.Resources.resources
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto eventos del mouse.csproj.GenerateResource.cache
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto eventos del mouse.csproj.CoreCompileInputs.cache
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto eventos del mouse.exe
+C:\Users\isai\source\repos\proyecto eventos del mouse\proyecto eventos del mouse\obj\Debug\proyecto eventos del mouse.pdb
